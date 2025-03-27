@@ -787,7 +787,8 @@ pre {
     border-top: 1px solid black;
 }
 body {
-       height: 100vh;
-       width: 100vw;
-       background-color: black;
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    
 }
