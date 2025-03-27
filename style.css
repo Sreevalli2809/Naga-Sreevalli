@@ -33,7 +33,7 @@
 } 
 .hero {
     height: 550px;
-    width: 1260;
+    width: 1260px;
     background-image: url("hero.jpg");
     background-size: cover;
     display: flex;
