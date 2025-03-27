@@ -83,7 +83,7 @@ button:focus {
   }
 .boxe {
     height: 600px;
-    width: rem;
+    width: 100vw;
 
 }
 .textboxes {
